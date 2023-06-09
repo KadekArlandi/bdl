@@ -1,0 +1,37 @@
+[
+    {
+        "id_pelanggan": "P001",
+        "nama_pelanggan": "Made",
+        "alamat_pelanggan": "Jalan Tukad Pakerisan",
+        "tlp_pelanggan": "087861630697",
+        "pekerjaan": "swasta"
+    },
+    {
+        "id_pelanggan": "P002",
+        "nama_pelanggan": "Wayan",
+        "alamat_pelanggan": "Jalan Tukad Pakerisan II",
+        "tlp_pelanggan": "087861639643",
+        "pekerjaan": "Programer"
+    },
+    {
+        "id_pelanggan": "P003",
+        "nama_pelanggan": "Komang",
+        "alamat_pelanggan": "Jalan Tukad Pakerisan III",
+        "tlp_pelanggan": "087861637635",
+        "pekerjaan": "Designer"
+    },
+    {
+        "id_pelanggan": "P004",
+        "nama_pelanggan": "Aldi",
+        "alamat_pelanggan": "Tabanan",
+        "tlp_pelanggan": "08123456789",
+        "pekerjaan": "Mahasiswa"
+    },
+    {
+        "id_pelanggan": "P005",
+        "nama_pelanggan": "Kadek Aldi",
+        "alamat_pelanggan": "Tabanan 2",
+        "tlp_pelanggan": "08765432198",
+        "pekerjaan": "Mahasiswa"
+    }
+]
